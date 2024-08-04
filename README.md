@@ -1,0 +1,1 @@
+This is a group project of egg grade classification system based on the size of egg. After running the experiments, the performance are being evaluated in terms of accuracy, training time and execution time. The datasets used in this project are self-collected whereby Malaysia egg with grade A, C and E are being utilized with 200 eggs per each grade
